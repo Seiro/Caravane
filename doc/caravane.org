@@ -1,0 +1,38 @@
+* Classes
+** Caravane
+ - Endurance chevaux caravane (current/current_max/max) -> détermine vitesse max
+ - Stock restant (current)
+ - Aire de soin pour cavalier
+ - Etat caravane
+ - Objets annexes
+ - Niveau caravane -> Défini HP_max & QTÉ_max
+** Conducteur (j1) (à voir)
+ - Arme
+ - Argent
+** Cavalier (j2)
+ - Endurance cheval (current/max) -> détermine vitesse max
+ - Santé -> si KO, joueur "inactif"
+ - Armes
+** Armes
+ - Munitions (current/max)
+ - Précision
+ - Efficacité
+** Ennemi (1 ou plusieurs types ?)
+ - Santé
+ - Arme
+** Coffre
+ - Type de bonus
+** Obstacle
+ - Restant (taux restant à déblayer)
+** Contrat ?
+ - Qté à transporter (max/min)
+ - Récompense
+ - Difficulté
+** Embuscade ? (zone)
+ - estDécouverte (par le cavalier)
+ - estActivée
+** Checkpoint
+ - Zone
+** Objets ?
+* Idées en vrac
+ - Indicateur direction caravane pour j2
